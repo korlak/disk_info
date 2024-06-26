@@ -1,0 +1,42 @@
+C:\Users\signa\source\repos\dsk inf\dsk inf\bin\Debug\dsk inf.exe.config
+C:\Users\signa\source\repos\dsk inf\dsk inf\bin\Debug\dsk inf.exe
+C:\Users\signa\source\repos\dsk inf\dsk inf\bin\Debug\dsk inf.pdb
+C:\Users\signa\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.csproj.AssemblyReference.cache
+C:\Users\signa\source\repos\dsk inf\dsk inf\obj\Debug\MainWindow.baml
+C:\Users\signa\source\repos\dsk inf\dsk inf\obj\Debug\MainWindow.g.cs
+C:\Users\signa\source\repos\dsk inf\dsk inf\obj\Debug\App.g.cs
+C:\Users\signa\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf_MarkupCompile.cache
+C:\Users\signa\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.g.resources
+C:\Users\signa\source\repos\dsk inf\dsk inf\obj\Debug\dsk_inf.Properties.Resources.resources
+C:\Users\signa\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.csproj.GenerateResource.cache
+C:\Users\signa\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.csproj.CoreCompileInputs.cache
+C:\Users\signa\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.exe
+C:\Users\signa\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.pdb
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\bin\Debug\dsk inf.exe.config
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\bin\Debug\dsk inf.exe
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\bin\Debug\dsk inf.pdb
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\obj\Debug\dsk inf.csproj.AssemblyReference.cache
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\obj\Debug\MainWindow.baml
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\obj\Debug\MainWindow.g.cs
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\obj\Debug\App.g.cs
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\obj\Debug\dsk inf_MarkupCompile.cache
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\obj\Debug\dsk inf.g.resources
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\obj\Debug\dsk_inf.Properties.Resources.resources
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\obj\Debug\dsk inf.csproj.GenerateResource.cache
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\obj\Debug\dsk inf.csproj.CoreCompileInputs.cache
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\obj\Debug\dsk inf.exe
+C:\Users\korve\OneDrive\Рабочий стол\системне та мереж\LAB3\PROJECT\dsk inf\dsk inf\obj\Debug\dsk inf.pdb
+C:\Users\korve\source\repos\dsk inf\dsk inf\bin\Debug\dsk inf.exe.config
+C:\Users\korve\source\repos\dsk inf\dsk inf\bin\Debug\dsk inf.exe
+C:\Users\korve\source\repos\dsk inf\dsk inf\bin\Debug\dsk inf.pdb
+C:\Users\korve\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.csproj.AssemblyReference.cache
+C:\Users\korve\source\repos\dsk inf\dsk inf\obj\Debug\MainWindow.baml
+C:\Users\korve\source\repos\dsk inf\dsk inf\obj\Debug\MainWindow.g.cs
+C:\Users\korve\source\repos\dsk inf\dsk inf\obj\Debug\App.g.cs
+C:\Users\korve\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf_MarkupCompile.cache
+C:\Users\korve\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.g.resources
+C:\Users\korve\source\repos\dsk inf\dsk inf\obj\Debug\dsk_inf.Properties.Resources.resources
+C:\Users\korve\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.csproj.GenerateResource.cache
+C:\Users\korve\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.csproj.CoreCompileInputs.cache
+C:\Users\korve\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.exe
+C:\Users\korve\source\repos\dsk inf\dsk inf\obj\Debug\dsk inf.pdb
